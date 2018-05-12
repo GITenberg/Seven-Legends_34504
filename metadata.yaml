@@ -20,6 +20,8 @@ creator:
     - http://de.wikipedia.org/wiki/Gottfried_Keller
     - http://en.wikipedia.org/wiki/Gottfried_Keller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34504#Seven-Legends
 gutenberg_issued: '2010-11-29'
 gutenberg_type: Text
 identifiers:
