@@ -1,0 +1,38 @@
+_repo: Seven-Legends_34504
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wyness, Martin
+    gutenberg_agent_id: '37057'
+    url: http://www.gutenberg.org/2009/agents/37057
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keller, Gottfried
+    alias: Keller, Gotfryd
+    birthdate: 1819
+    deathdate: 1890
+    gutenberg_agent_id: '2159'
+    url: http://www.gutenberg.org/2009/agents/2159
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Gottfried_Keller
+    - http://en.wikipedia.org/wiki/Gottfried_Keller
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories'
+tableOfContents: Eugenia -- The Virgin and the devil -- The Virgin as knight -- The
+  Virgin as nun -- The naughty Saint Vitalis -- Dorothea's flower-basket -- A legend
+  of the dance.
+title: Seven Legends
+url: http://www.gutenberg.org/ebooks/34504
